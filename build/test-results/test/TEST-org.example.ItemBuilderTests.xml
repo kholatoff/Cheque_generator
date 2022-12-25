@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.ItemBuilderTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-25T12:27:01" hostname="GLOOMYJACK-OFFI" time="0.005">
+  <properties/>
+  <testcase name="itemBuilder_getResult_invalidID_test()" classname="org.example.ItemBuilderTests" time="0.002"/>
+  <testcase name="itemBuilder_getResult_test()" classname="org.example.ItemBuilderTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

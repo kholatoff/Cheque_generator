@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.ChequeGenTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-25T12:27:01" hostname="GLOOMYJACK-OFFI" time="0.089">
+  <properties/>
+  <testcase name="chequeGen_generateFile_test()" classname="org.example.ChequeGenTests" time="0.089"/>
+  <system-out><![CDATA[File successfully created.
+Cheque successfully generated.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.InputTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-25T12:27:01" hostname="GLOOMYJACK-OFFI" time="0.013">
+  <properties/>
+  <testcase name="input_getInput_test()" classname="org.example.InputTests" time="0.01"/>
+  <testcase name="input_getInput_noFile_test()" classname="org.example.InputTests" time="0.002"/>
+  <system-out><![CDATA[Reading error! File not found!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
